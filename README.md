@@ -53,3 +53,7 @@ endmodule
 **TIMING DIGRAMS FOR SISO Shift Register**
 
 **RESULTS**
+
+Thus the Serial-In Serial-Out shift register is implemented and verified.
+
+
